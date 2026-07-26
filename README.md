@@ -2,7 +2,7 @@
 
 Welcome to the **Data Warehouse and Analytics Project** repository. 
 
-This project demonstrates a comprehensive data marehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project with industry best practices in data enginneering and anlytics. Part of Data with Baraa's course collection. 
+This project demonstrates a comprehensive data marehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project with industry best practices in data enginneering and anlytics.
 
 ---
 
